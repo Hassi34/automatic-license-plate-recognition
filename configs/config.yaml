@@ -1,0 +1,7 @@
+TARGET_VEHICLES : ["FB-DJ-18"]
+POINT_LOCATION : "Somewhere in Vietnam"
+IMAGES_DIR : "images"
+MODELS_DIR : "models"
+DETECTOR_MODEL_PATH : "models/licensePlateDetector.pt"
+VIDEO_PATH : "assets/demo.mp4"
+MASK_PATH : "assets/mask.png"

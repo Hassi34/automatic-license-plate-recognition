@@ -1,0 +1,6 @@
+paddleocr>=2.0.1 #for the current version of paddleocr, python version should be less than 3.10
+paddlepaddle
+ultralytics>=8.0.59
+cvzone
+firebase-admin
+python-dotenv
